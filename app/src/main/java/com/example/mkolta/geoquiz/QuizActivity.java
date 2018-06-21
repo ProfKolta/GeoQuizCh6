@@ -14,7 +14,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 public class QuizActivity extends AppCompatActivity {
-
+    //testing git
     private static final String TAG = "QuizActivity";
     private static final String KEY_INDEX = "index";
     private static final String IS_CHEATER = "cheater";
